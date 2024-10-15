@@ -1,4 +1,1 @@
-cat .gitignore
-
-/.idea
-/vs_code
+.idea/
